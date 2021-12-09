@@ -1,0 +1,7 @@
+transformers==4.12.5
+numpy==1.19.5
+pytesseract==0.3.8
+opencv_contrib_python==4.5.3.56
+matplotlib==3.3.4
+torch==1.9.0
+Pillow==8.4.0

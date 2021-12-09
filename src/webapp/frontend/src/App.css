@@ -1,0 +1,45 @@
+.mainContainer {
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  width: 100%;
+  overflow: scroll;
+  background-color: #0d1116;
+  white-space:pre-wrap; 
+}
+
+.dataContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  max-width: 600px;
+}
+
+.header {
+  text-align: center;
+  font-size: 64px;
+  font-weight: 600;
+  color: white;
+}
+
+.bio {
+  text-align: center;
+  color: white;
+  margin-top: 16px;
+  font-size: 20px;
+}
+
+.instruct {
+  text-align: center;
+  color: white;
+  margin-top: 16px;
+  font-size: 15px;
+}
+
+.speedButton {
+  cursor: pointer;
+  margin-top: 16px;
+  padding: 8px;
+  border: 0;
+  border-radius: 10px;
+}

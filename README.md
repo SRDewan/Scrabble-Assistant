@@ -1,11 +1,4 @@
-# Scrabble Assistant (Team: lena)
-Digital Image Processing: Course Project (Monsoon 2021)
-
-**Team Members**
-- Shaurya Rajat Dewan (2019101017, CSE)
-- Chirag Shameek Sahu (2019102006, ECE)
-- Harshwardhan Prasad (2019102021, ECE)
-- Shivanshu Jain (2019101001, CSE)
+# Scrabble Assistant
 
 ## Overview
 This is a Graphical User Interface (GUI), that takes an image of the Scrabble board and returns the user a text matrix of the characters present on the board. Also, the GUI takes the images of the tiles and gives the best valid word for the given set of tiles.
